@@ -1,0 +1,15 @@
+# Data (large, regenerable from code)
+data/
+
+# Models and predictions (regenerable, can be large)
+models/
+oof/
+submissions/
+
+# Notebook / Python clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
