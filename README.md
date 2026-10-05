@@ -1,4 +1,4 @@
-# kaggle-playground
+# Kaggle Playground
 
 My work on Kaggle's Playground Series: small tabular prediction competitions, used to practise building and validating ML models. One folder per episode.
 
